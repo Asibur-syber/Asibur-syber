@@ -1,27 +1,40 @@
-# 👋 Hello, I'm Asibur!
-I’m a passionate learner and future ethical hacker from Bangladesh 🇧🇩  
-Currently learning Cyber Security from TryHackMe (Free Courses).
+<h1 align="center">🧑‍💻 Asibur Khan | Cyber Security Learner</h1>
+<p align="center">
+  🇧🇩 Beginner Ethical Hacker from Bangladesh <br>
+  🔐 Learning Practical Hacking from TryHackMe
+</p>
 
-## 🔐 Skills I'm Learning:
-- Network Fundamentals (ping, traceroute, nmap)
-- Linux Commands (ls, cd, grep, chmod)
-- Website Hacking Basics (XSS, SQLi, LFI)
-- Tools: dirb, gobuster, Burp Suite, sqlmap
+---
 
-## 📚 Platforms I Learn From:
-- 🔒 TryHackMe (Free Cyber Security Labs)
-- 🕸️ PortSwigger Web Security Academy
-- 🎥 YouTube (John Hammond, The Cyber Mentor)
+### 🧠 Skills I'm Learning
+- 🌐 Network Fundamentals (ping, tracert, nmap)
+- 🐧 Linux Commands (ls, cd, grep, chmod)
+- 💻 Website Hacking Basics (XSS, SQLi, LFI)
+- 🔍 Tools: dirb, gobuster, sqlmap, Burp Suite
 
-## 🛠️ Current Goal:
-Learn Web Hacking → Build Projects → Start Earning from Fiverr & HackerOne 💸
+---
 
+### 🎯 My Goals (Next 6 Months)
+- ✅ Finish TryHackMe free courses
+- 🧠 Build a solid GitHub hacking profile
+- 💸 Start freelancing on Fiverr
+- 🐞 Try beginner bug bounties (HackerOne, Bugcrowd)
 
-## 🚀 My Plan:
-- ✅ TryHackMe Complete Beginner Path (Ongoing)
-- 🔜 Publish Writeups on GitHub
-- 🔜 Launch Fiverr Gig (Website Vulnerability Testing)
-- 🔜 Start Bug Bounty Hunting on HackerOne
+---
 
-## 📬 Contact Me:
-- 📧 asiburcyber@gmail.com
+### 🔗 My Learning Resources
+- [TryHackMe](https://tryhackme.com/)
+- [PortSwigger Web Academy](https://portswigger.net/web-security)
+- YouTube: John Hammond, The Cyber Mentor
+
+---
+
+### 📫 Contact Me
+- 📧 Email: asiburcyber@gmail.com
+- 🐙 GitHub: [Asibur-syber](https://github.com/Asibur-syber)
+
+---
+
+<p align="center">
+  💪 Hardworking | 🔐 Curious | 🎯 Focused | 🌍 Dream: World-Class Ethical Hacker
+</p>

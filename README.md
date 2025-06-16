@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Asibur!
+I’m a passionate learner and future ethical hacker from Bangladesh 🇧🇩  
+Currently learning Cyber Security from TryHackMe (Free Courses).
 
-<!--
-**Asibur-syber/Asibur-syber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Skills I'm Learning:
+- Network Fundamentals (ping, traceroute, nmap)
+- Linux Commands (ls, cd, grep, chmod)
+- Website Hacking Basics (XSS, SQLi, LFI)
+- Tools: dirb, gobuster, Burp Suite, sqlmap
 
-Here are some ideas to get you started:
+## 📚 Platforms I Learn From:
+- 🔒 TryHackMe (Free Cyber Security Labs)
+- 🕸️ PortSwigger Web Security Academy
+- 🎥 YouTube (John Hammond, The Cyber Mentor)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Current Goal:
+Learn Web Hacking → Build Projects → Start Earning from Fiverr & HackerOne 💸
+
+
+## 🚀 My Plan:
+- ✅ TryHackMe Complete Beginner Path (Ongoing)
+- 🔜 Publish Writeups on GitHub
+- 🔜 Launch Fiverr Gig (Website Vulnerability Testing)
+- 🔜 Start Bug Bounty Hunting on HackerOne
+
+## 📬 Contact Me:
+- 📧 asiburcyber@gmail.com

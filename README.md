@@ -1,64 +1,68 @@
 <h1 align="center">🚀 Asibur Khan</h1>
-<h3 align="center">Ethical Hacker | Penetration Tester | Cybersecurity Learner</h3>
+<h3 align="center">Ethical Hacker | Web Pentester | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  🇧🇩 From Bangladesh | 🔐 Focused on Practical Web & Network Hacking | 💻 Building My Digital Arsenal
+  🇧🇩 Based in Bangladesh &bull; 💻 Practical Hacker-in-Training &bull; 🔐 Security is My Passion
 </p>
 
 ---
 
-## 🧠 What I’m Learning Right Now
-- 🌐 *Network Scanning & Enumeration*: nmap, ping, netcat
-- 🐧 *Linux Mastery*: grep, chmod, find, crontab, SUID
-- 🕸️ *Web Hacking Essentials*: SQLi, XSS, LFI, File Upload Bypass
-- 🔧 *Power Tools in Use*:
-  dirb, gobuster, sqlmap, Burp Suite, hydra, Nikto, wfuzz
+## 🧠 Currently Learning
+- 🌐 *Network Scanning*: nmap, ping, netcat, whois
+- 🐧 *Linux Power Skills*: chmod, grep, find, crontab, SUID
+- 🕷️ *Web Exploitation*: SQL Injection, XSS, LFI, File Upload Bypass
+- 🛠️ *Top Tools in My Arsenal*:
+  Burp Suite, dirb, gobuster, sqlmap, hydra, Nikto, wfuzz
 
 ---
 
-## 🎯 My 6-Month Roadmap
-| Goal | Status |
-|------|--------|
-| 🎓 Complete TryHackMe Free Rooms | ✅ In Progress |
-| 📚 Learn OWASP Top 10 (PortSwigger) | 🔄 |
-| 🔨 Build 40+ Report Portfolio (GitHub) | ✅ Done |
-| 🐞 Start Bug Bounty on HackerOne / Bugcrowd | 🔜 |
-| 💼 Start Earning from Fiverr (Freelance) | 🧱 In Setup |
-| 🤖 Learn Python for Automation | 🔜 |
+## 🎯 6-Month Roadmap
+| 🎯 Goal | 🚀 Status |
+|--------|-----------|
+| Complete all TryHackMe Free Rooms | ✅ In Progress |
+| Master OWASP Top 10 via PortSwigger | 🔄 Learning |
+| Publish 40+ Practical Hacking Reports | ✅ Done |
+| Start Freelancing on Fiverr | 🧱 Setting Up |
+| Begin Bug Bounty on HackerOne/Bugcrowd | 🔜 Soon |
+| Learn Python for Script Automation | ⏳ Planning |
 
 ---
 
-## 🗂️ Featured Work
-✨ Explore my step-by-step TryHackMe reports, walkthroughs, and exploitation notes:
+## 📁 Featured Project: TryHackMe Report Library
+🛡️ A curated collection of hacking reports with practical exploitation steps & flags.
 
-[📁 TryHackMe Reports Repository 🔗](https://github.com/Asibur-syber/TryHackMe-Reports)
+🔗 [📂 Explore My TryHackMe Reports](https://github.com/Asibur-syber/TryHackMe-Reports)
+📸 Includes screenshots, commands, real flags, and proof-of-work for each room.
+.
 
 ---
 
-## 🧰 Tools in My Arsenal
+## 🧰 Toolbox I Work With
 ![Linux](https://img.shields.io/badge/Linux-100%25-brightgreen?logo=linux)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Intermediate-orange?logo=burp-suite)
 ![Nmap](https://img.shields.io/badge/Nmap-Essential-blue?logo=nmap)
-![SQLMap](https://img.shields.io/badge/SQLMap-Powerful-yellow?logo=mysql)
-![Hydra](https://img.shields.io/badge/Hydra-Brute_Force-red)
+![SQLMap](https://img.shields.io/badge/SQLMap-Automated-yellow?logo=mysql)
+![Hydra](https://img.shields.io/badge/Hydra-BruteForce-red)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-darkgreen?logo=tryhackme)
 
 ---
 
-## 🌍 My Knowledge Sources
-- 🔗 [TryHackMe Profile](https://tryhackme.com/p/Asibur-syber)
-- 🎯 [PortSwigger Web Academy](https://portswigger.net/web-security)
-- 📺 [John Hammond](https://www.youtube.com/@_JohnHammond)
+## 🌐 Learning From
+- 🎓 [TryHackMe Profile](https://tryhackme.com/p/Asibur-syber)
+- 💡 [PortSwigger Web Academy](https://portswigger.net/web-security)
 - 📺 [The Cyber Mentor](https://www.youtube.com/@thecybermentor)
+- 📺 [John Hammond](https://www.youtube.com/@_JohnHammond)
 
 ---
 
-## 📫 Let's Connect & Collaborate
-- GitHub: [Asibur-syber](https://github.com/Asibur-syber)
-- Fiverr (Coming Soon)
-- HackerOne / Bugcrowd (Launching Soon)
+## 🤝 Let’s Connect & Collaborate!
+- 🔗 GitHub: [Asibur-syber](https://github.com/Asibur-syber)
+- 💼 Fiverr (Launching Soon)
+- 🐞 HackerOne & Bugcrowd (Coming Soon)
 
-✍️ _"My mission is clear: Learn every day, hack the right way, and grow into a world-class cybersecurity expert."_
-
+---
+🧠 _“I'm not just learning hacking — I'm mastering it one exploit at a time.”_  
+📬 *Available for beginner-friendly cybersecurity tasks, web app testing, and freelance pentesting work.*
+*
 
 ---

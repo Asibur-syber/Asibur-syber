@@ -1,68 +1,112 @@
-<h1 align="center">🚀 Asibur Khan</h1>
-<h3 align="center">Ethical Hacker | Web Pentester | Cybersecurity Enthusiast</h3>
-
-<p align="center">
-  🇧🇩 Based in Bangladesh &bull; 💻 Practical Hacker-in-Training &bull; 🔐 Security is My Passion
-</p>
+# 🚀 Asibur Rahaman  
+*Ethical Hacker | Web Application Penetration Tester | Cybersecurity Professional*  
+🇧🇩 Bangladesh • 🛡️ Red Team Enthusiast • 💻 Freelance Offensive Security Specialist
 
 ---
 
-## 🧠 Currently Learning
-- 🌐 *Network Scanning*: nmap, ping, netcat, whois
-- 🐧 *Linux Power Skills*: chmod, grep, find, crontab, SUID
-- 🕷️ *Web Exploitation*: SQL Injection, XSS, LFI, File Upload Bypass
-- 🛠️ *Top Tools in My Arsenal*:
-  Burp Suite, dirb, gobuster, sqlmap, hydra, Nikto, wfuzz
+“Security isn’t just my field — it’s my mission. I break to protect.”
+
 
 ---
 
-## 🎯 6-Month Roadmap
-| 🎯 Goal | 🚀 Status |
-|--------|-----------|
-| Complete all TryHackMe Free Rooms | ✅ In Progress |
-| Master OWASP Top 10 via PortSwigger | 🔄 Learning |
-| Publish 40+ Practical Hacking Reports | ✅ Done |
-| Start Freelancing on Fiverr | 🧱 Setting Up |
-| Begin Bug Bounty on HackerOne/Bugcrowd | 🔜 Soon |
-| Learn Python for Script Automation | ⏳ Planning |
+## 🔍 What I Do
+
+I specialize in finding and fixing real-world vulnerabilities that others miss. Whether you're a startup needing secure web applications or a bug bounty platform looking for top-tier hunters — I deliver *clean, documented, and reproducible results*.
 
 ---
 
-## 📁 Featured Project: TryHackMe Report Library
-🛡️ A curated collection of hacking reports with practical exploitation steps & flags.
+## 🧠 My Current Cybersecurity Arsenal
 
-🔗 [📂 Explore My TryHackMe Reports](https://github.com/Asibur-syber/TryHackMe-Reports)
-📸 Includes screenshots, commands, real flags, and proof-of-work for each room.
-.
+- 🌐 *Network Enumeration & Scanning*  
+  nmap, ping, whois, netcat
 
----
+- 🐧 *Linux Privilege Escalation & OS Mastery*  
+  chmod, grep, find, crontab, SUID, services, background jobs
 
-## 🧰 Toolbox I Work With
-![Linux](https://img.shields.io/badge/Linux-100%25-brightgreen?logo=linux)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Intermediate-orange?logo=burp-suite)
-![Nmap](https://img.shields.io/badge/Nmap-Essential-blue?logo=nmap)
-![SQLMap](https://img.shields.io/badge/SQLMap-Automated-yellow?logo=mysql)
-![Hydra](https://img.shields.io/badge/Hydra-BruteForce-red)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-darkgreen?logo=tryhackme)
+- 🌍 *Web Application Exploitation*  
+  SQLi, XSS, LFI, RFI, IDOR, file upload bypass, cookie tampering
+
+- 🛠️ *Tool Stack*  
+  Burp Suite • Gobuster • dirb • sqlmap • Hydra • Nikto • wfuzz • enum4linux
 
 ---
 
-## 🌐 Learning From
-- 🎓 [TryHackMe Profile](https://tryhackme.com/p/Asibur-syber)
-- 💡 [PortSwigger Web Academy](https://portswigger.net/web-security)
-- 📺 [The Cyber Mentor](https://www.youtube.com/@thecybermentor)
-- 📺 [John Hammond](https://www.youtube.com/@_JohnHammond)
+## 🗺️ 6-Month Roadmap
+
+| 🎯 Objective | 📊 Progress |
+|-------------|-------------|
+| Complete all TryHackMe Free Rooms | 🟢 In Progress |
+| Master OWASP Top 10 via PortSwigger | 🔄 Ongoing |
+| Publish 40+ Real-World Hacking Reports | ✅ Done |
+| Launch Freelance Services on Fiverr | 🚧 Setting Up |
+| Begin Bug Bounty Journey (H1/Bugcrowd) | 🔜 Coming Soon |
+| Learn Python for Scripted Exploits | ⏳ Planned |
 
 ---
 
-## 🤝 Let’s Connect & Collaborate!
-- 🔗 GitHub: [Asibur-syber](https://github.com/Asibur-syber)
-- 💼 Fiverr (Launching Soon)
-- 🐞 HackerOne & Bugcrowd (Coming Soon)
+## 📁 Signature Project: TryHackMe Report Library
+
+📂 A highly detailed collection of *40+ professional hacking reports* documenting end-to-end exploitation of vulnerable machines on TryHackMe. Built for clarity, reproducibility, and proof-of-work.
+
+Includes:
+
+✅ Full Exploit Walkthroughs  
+✅ Screenshots of Commands & Results  
+✅ Captured Flags  
+✅ Notes for Clients & Bug Bounty Teams  
+
+🔗 [View on GitHub](https://github.com/Asibur-syber/TryHackMe-Reports)
 
 ---
-🧠 _“I'm not just learning hacking — I'm mastering it one exploit at a time.”_  
-📬 *Available for beginner-friendly cybersecurity tasks, web app testing, and freelance pentesting work.*
+
+## 🧰 My Cybersecurity Toolkit
+
+Linux • Burp Suite • Nmap • SQLMap • Hydra • Nikto • Gobuster • dirb • wfuzz • whois • netcat • enum4linux • TryHackMe
+
+---
+
+## 🌐 Where I Learn
+
+- 🎓 [TryHackMe](https://tryhackme.com)
+- 🔐 [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- 📺 [The Cyber Mentor](https://youtube.com/@thecybermentor)
+- 📺 [John Hammond](https://youtube.com/@_JohnHammond)
+
+---
+
+## 🤝 Services I Provide
+
+💼 *Available for Hire* — I provide high-impact cybersecurity services tailored for:
+
+- ✅ Vulnerability Scanning & Reporting  
+- ✅ Web App Penetration Testing (OWASP)  
+- ✅ CTF/Platform Report Writing (TryHackMe Style)  
+- ✅ Bug Hunting Strategy & Exploitation Notes  
+- ✅ Entry-Level Consultation for Startups & Devs
+
+📋 Reports are written in clear English with screenshots, commands, and client notes.
+
+---
+
+## 📬 Contact & Profiles
+
+- 🔗 *GitHub*: [Asibur-syber](https://github.com/Asibur-syber)  
+- 💼 *Fiverr*: (Coming Soon — Ethical Hacking Gigs)  
+- 🐞 *HackerOne & Bugcrowd*
+(Launching Soon)*  
+
+---
+
+## 💬 My Mantra
+
+“I'm not just learning hacking —  
+I'm mastering it one exploit, one system, and one vulnerability at a time.”  
+— *Asibur Rahaman*
 *
 
 ---
+
+### 🎯 Ready to Secure Your System?
+
+💌 *DM me now* — Let's identify your weak spots before attackers do.  
+I offer *professional-quality reports, practical advice, and bulletproof analysis.*

@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/TryHackMe-Asibur--syber-red?style=flat&logo=tryhackme" />
   </a>
   <a href="https://hackerone.com/asibur-syber">
-    <img src="https://img.shields.io/badge/HackerOne-Verified-black?style=flat&logo=hackerone" />
+    <img src="https://hackerone.com/opportunities/all" />
   </a>
   <a href="https://www.fiverr.com/">
     <img src="https://img.shields.io/badge/Fiverr-Ethical%20Hacking-green?style=flat&logo=fiverr" />

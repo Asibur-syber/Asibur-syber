@@ -11,8 +11,8 @@
   <a href="https://tryhackme.com/p/Asibur-syber">
     <img src="https://img.shields.io/badge/TryHackMe-Asibur--syber-red?style=flat&logo=tryhackme" />
   </a>
-  <a href="https://hackerone.com/asibur-syber">
-    <img src="https://hackerone.com/opportunities/all" />
+  <a href="https://hackerone.com/hacktivity/overview?queryString=disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0">
+    <img src="https://hackerone.com/hacktivity/overview?queryString=disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0" />
   </a>
   <a href="https://www.fiverr.com/">
     <img src="https://img.shields.io/badge/Fiverr-Ethical%20Hacking-green?style=flat&logo=fiverr" />

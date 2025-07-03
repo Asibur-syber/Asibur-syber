@@ -1,112 +1,115 @@
-# 🚀 Asibur Rahaman  
-*Ethical Hacker | Web Application Penetration Tester | Cybersecurity Professional*  
-🇧🇩 Bangladesh • 🛡️ Red Team Enthusiast • 💻 Freelance Offensive Security Specialist
+<h1 align="center">🧑‍💻 ASIBUR RAHAMAN</h1>
+<p align="center">
+  <strong>🔐 Ethical Hacker | 🛡️ Web Application Penetration Tester | 🧠 Red Team Specialist</strong><br>
+  📍 Bangladesh | 🎯 Bug Bounty Hunter | 💼 Freelance Pentester
+</p>
+
+<p align="center">
+  <a href="https://github.com/Asibur-syber">
+    <img src="https://img.shields.io/badge/GitHub-Asibur--syber-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://tryhackme.com/p/Asibur-syber">
+    <img src="https://img.shields.io/badge/TryHackMe-Asibur--syber-red?style=flat&logo=tryhackme" />
+  </a>
+  <a href="https://hackerone.com/asibur-syber">
+    <img src="https://img.shields.io/badge/HackerOne-Verified-black?style=flat&logo=hackerone" />
+  </a>
+  <a href="https://www.fiverr.com/">
+    <img src="https://img.shields.io/badge/Fiverr-Ethical%20Hacking-green?style=flat&logo=fiverr" />
+  </a>
+</p>
 
 ---
 
-“Security isn’t just my field — it’s my mission. I break to protect.”
+## 🧾 About Me
 
+Hello! I'm *Asibur Rahaman*, a dedicated and highly motivated *Cyber Security Professional* specialized in:
 
----
+- 🔍 Penetration Testing
+- 🌐 Web Application Security
+- 🧠 Red Team Tactics & Recon
+- 📑 Client-Ready Security Reporting
 
-## 🔍 What I Do
-
-I specialize in finding and fixing real-world vulnerabilities that others miss. Whether you're a startup needing secure web applications or a bug bounty platform looking for top-tier hunters — I deliver *clean, documented, and reproducible results*.
-
----
-
-## 🧠 My Current Cybersecurity Arsenal
-
-- 🌐 *Network Enumeration & Scanning*  
-  nmap, ping, whois, netcat
-
-- 🐧 *Linux Privilege Escalation & OS Mastery*  
-  chmod, grep, find, crontab, SUID, services, background jobs
-
-- 🌍 *Web Application Exploitation*  
-  SQLi, XSS, LFI, RFI, IDOR, file upload bypass, cookie tampering
-
-- 🛠️ *Tool Stack*  
-  Burp Suite • Gobuster • dirb • sqlmap • Hydra • Nikto • wfuzz • enum4linux
-
----
-
-## 🗺️ 6-Month Roadmap
-
-| 🎯 Objective | 📊 Progress |
-|-------------|-------------|
-| Complete all TryHackMe Free Rooms | 🟢 In Progress |
-| Master OWASP Top 10 via PortSwigger | 🔄 Ongoing |
-| Publish 40+ Real-World Hacking Reports | ✅ Done |
-| Launch Freelance Services on Fiverr | 🚧 Setting Up |
-| Begin Bug Bounty Journey (H1/Bugcrowd) | 🔜 Coming Soon |
-| Learn Python for Scripted Exploits | ⏳ Planned |
-
----
-
-## 📁 Signature Project: TryHackMe Report Library
-
-📂 A highly detailed collection of *40+ professional hacking reports* documenting end-to-end exploitation of vulnerable machines on TryHackMe. Built for clarity, reproducibility, and proof-of-work.
-
-Includes:
-
-✅ Full Exploit Walkthroughs  
-✅ Screenshots of Commands & Results  
-✅ Captured Flags  
-✅ Notes for Clients & Bug Bounty Teams  
-
-🔗 [View on GitHub](https://github.com/Asibur-syber/TryHackMe-Reports)
-
----
-
-## 🧰 My Cybersecurity Toolkit
-
-Linux • Burp Suite • Nmap • SQLMap • Hydra • Nikto • Gobuster • dirb • wfuzz • whois • netcat • enum4linux • TryHackMe
-
----
-
-## 🌐 Where I Learn
-
-- 🎓 [TryHackMe](https://tryhackme.com)
-- 🔐 [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- 📺 [The Cyber Mentor](https://youtube.com/@thecybermentor)
-- 📺 [John Hammond](https://youtube.com/@_JohnHammond)
-
----
-
-## 🤝 Services I Provide
-
-💼 *Available for Hire* — I provide high-impact cybersecurity services tailored for:
-
-- ✅ Vulnerability Scanning & Reporting  
-- ✅ Web App Penetration Testing (OWASP)  
-- ✅ CTF/Platform Report Writing (TryHackMe Style)  
-- ✅ Bug Hunting Strategy & Exploitation Notes  
-- ✅ Entry-Level Consultation for Startups & Devs
-
-📋 Reports are written in clear English with screenshots, commands, and client notes.
-
----
-
-## 📬 Contact & Profiles
-
-- 🔗 *GitHub*: [Asibur-syber](https://github.com/Asibur-syber)  
-- 💼 *Fiverr*: (Coming Soon — Ethical Hacking Gigs)  
-- 🐞 *HackerOne & Bugcrowd*
-(Launching Soon)*  
-
----
-
-## 💬 My Mantra
-
-“I'm not just learning hacking —  
-I'm mastering it one exploit, one system, and one vulnerability at a time.”  
-— *Asibur Rahaman*
+I provide *TryHackMe Lab Solutions*, exploit analysis, and hands-on services to help organizations and individuals strengthen their digital security.
+🧠 *“Hack Ethically. Learn Endlessly. Secure Responsibly.”*
 *
 
 ---
 
-### 🎯 Ready to Secure Your System?
+## 📁 Featured Work
 
-💌 *DM me now* — Let's identify your weak spots before attackers do.  
-I offer *professional-quality reports, practical advice, and bulletproof analysis.*
+### 🔐 TryHackMe Room Reports  
+📂 [`TryHackMe-Reports`](https://github.com/Asibur-syber/TryHackMe-Reports)  
+🧾 40+ fully documented reports (Beginner to Advanced), with:
+
+- 📌 Tools, Commands, Screenshots  
+- 🧠 Concepts Explained Clearly  
+- 🛡️ Red Team, PrivEsc, AD, Web Pentest Focused  
+- ✅ Ideal for Clients, Recruiters & Learners
+
+---
+
+## ⚙️ Tools & Projects
+
+| Tool                  | Description                                 |
+|-----------------------|---------------------------------------------|
+| 🔎 AutoRecon Toolkit   | Automated recon scripts for CTF/pentests   |
+| 🎯 Payload Collection  | XSS, SQLi, LFI payloads with explanations  |
+| 🧪 Burp Suite Cheatsheet | Quick reference for web testing & bypasses |
+
+---
+
+## 🧰 Technical Skills
+
+| Category              | Tools & Knowledge                            |
+|-----------------------|-----------------------------------------------|
+| 🐧 Operating Systems   | Kali Linux, Ubuntu, Windows, Bash, PowerShell |
+| 🌐 Web Pentesting      | Burp Suite, dirb, gobuster, OWASP Top 10      |
+| 📡 Network Analysis    | Nmap, Wireshark, Netcat, tcpdump              |
+| 🧱 Enumeration & Info  | enum4linux, smbclient, nikto, dig, nslookup  |
+| 🎯 Exploitation Tools  | sqlmap, Metasploit, Hydra, manual testing    |
+| ⚙️ Privilege Escalation | LinPEAS, WinPEAS, manual privesc strategies |
+| 📄 Reporting           | GitHub Markdown, Professional THM Reports    |
+
+---
+
+## 🎓 Certifications & Progress
+
+| Platform     | Status                |
+|--------------|------------------------|
+| 🧠 TryHackMe   | ✅ 40+ Rooms Completed |
+| 🛡️ HackerOne   | ✅ Verified Profile     |
+| 🐞 Bugcrowd    | ✅ Registered           |
+| 🧪 HackTheBox  | 🔄 Starting Soon       |
+| 📜 OSCP/PNPT   | 🔄 In Preparation       |
+| 💼 Fiverr      | ✅ Freelance Services   |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asibur-syber&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asibur-syber&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+## ☁️ TryHackMe Rank
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Asibur-syber.png" alt="TryHackMe Rank">
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email:asib51639@gmail.com
+- 💼 Fiverr: [https://www.fiverr.com/start_selling](https://www.fiverr.com/)  
+- 🕵️‍♂️ HackerOne: [https://hackerone.com/opportunities/all](https://hackerone.com/)  
+<!-- Add LinkedIn or Portfolio when available -->
+
+---
+
+<h3 align="center">🔥 Let's Hack the Planet — <i>Legally & Ethically!</i></h3>

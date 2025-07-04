@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://imgur.com/a/cgWlHx5" alt="sybr" width="100%"/>
+  <img src="https://imgur.com/a/cgWlHx5" alt="sybr.jpg" width="100%"/>
 </p>
 
 <h1 align="center">🧑‍💻 Asibur Rahaman</h1>

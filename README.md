@@ -1,70 +1,91 @@
-# 🧑‍💻 ASIBUR RAHAMAN
+<!-- 🖼️ Banner -->
+<p align="center">
+  <img src="https://imgur.com/a/cgWlHx5" alt="Asibur Rahaman - Ethical Hacker Banner" width="100%"/>
+</p>
 
-*🔒 Ethical Hacker | 🛡️ Web Application Pentester | 🎯 Red Team Operator*  
-🌍 Bangladesh • 🎓 TryHackMe Top Learner • 💼 Freelance Security Expert  
-🔗 GitHub: [github.com/Asibur-syber](https://github.com/Asibur-syber)  
-🔗 Fiverr: [fiverr.com/asibur_syber](https://www.fiverr.com/asibur_syber)
+<h1 align="center">🧑‍💻 Asibur Rahaman</h1>
+<p align="center">
+  <strong>🔐 Ethical Hacker | 🕵️ Web Application Pentester | 🧠 Red Team Enthusiast</strong><br>
+  🔗 <a href="https://github.com/Asibur-syber">github.com/Asibur-syber</a>
+</p>
 
----
-
-## 👋 About Me
-
-I’m a passionate ethical hacker with deep expertise in:
-
-- 🔍 Web Application Penetration Testing  
-- 🧠 Vulnerability Assessment & Exploitation  
-- 🎯 Red Team Simulation & Windows Recon  
-- 📑 Professional TryHackMe Reports & Labs  
-- 📂 GitHub Report Showcase for Clients
-
-I focus on *real-world attack simulation*, *client-ready documentation*, and *clean recon methodology* — all tailored for *Fiverr clients and Bug Bounty programs*.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Asibur-syber&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🧠 About Me
 
-| Category              | Tools/Skills                                                                 |
-|-----------------------|------------------------------------------------------------------------------|
-| Reconnaissance        | nmap, whois, theHarvester, dnsenum, sublist3r                      |
-| Web Exploitation      | Burp Suite, sqlmap, dirb, nikto, gobuster, XSStrike              |
-| Privilege Escalation  | Linux/Windows Privesc, LinPEAS, WinPEAS, enum4linux, PowerView    |
-| Exploitation          | Metasploit, msfvenom, Netcat, Exploit-DB                            |
-| Reporting             | Markdown, LaTeX, HTML, Professional GitHub Styling                  |
+🚀 I'm an aspiring *Cybersecurity Professional* with deep hands-on skills in Linux, Web Pentesting, and Red Team tools.  
+🎯 My goal is to earn through skill — building *GitHub portfolio*, writing *client-grade reports*, and solving *real-world CTFs*.
 
----
-
-## 📊 TryHackMe Progress
-
-✅ Completed 40+ Rooms | Focused on Red Team, Linux/Windows Fundamentals, and Privilege Escalation  
-🔗 View reports: [github.com/Asibur-syber/TryHackMe-Reports](https://github.com/Asibur-syber/TryHackMe-Reports)
+- 🛠️ Tools Mastered: Nmap, Burp Suite, SQLMap, Dirb, Wireshark, Hydra, Netcat  
+- 💻 Platforms: TryHackMe (40+ Rooms), Kali Linux, GitHub, Bug Bounty  
+- 🧾 Speciality: Clear & Concise Pentesting Reports with step-by-step breakdowns  
+- 💼 Available for: Freelance | Report Writing | Mentorship  
+- 📈 Target: 1 lakh+ BDT/month using skills, not certificates
 
 ---
 
-## 📂 My Fiverr Services
+### 🧰 My Skill Arsenal
 
-🎯 *Penetration Testing Report Writing*  
-🎯 *TryHackMe Room Walkthroughs*  
-🎯 *Web App Vulnerability Testing*  
-🎯 *GitHub Portfolio Setup for Hackers*  
-🔗 Visit: [fiverr.com/asibur_syber](https://www.fiverr.com/asibur_syber)
-
----
-
-## 📌 Certifications & Platforms
-
-- ✅ [TryHackMe](https://tryhackme.com/p/Asibur-syber) — 40+ Rooms Completed  
-- ✅ GitHub Portfolio for Client Reports  
-- ✅ Ongoing Bug Bounty Practice (HackerOne, Bugcrowd)
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?logo=burpsuite)
+![Nmap](https://img.shields.io/badge/Nmap-004680?logo=gnometerminal)
+![Wireshark](https://img.shields.io/badge/Wireshark-1e90ff?logo=wireshark)
+![SQLMap](https://img.shields.io/badge/SQLMap-yellow?logo=datadog)
+![Dirb](https://img.shields.io/badge/Dirb-222?logo=security)
+![Hydra](https://img.shields.io/badge/Hydra-grey?logo=github)
+![Netcat](https://img.shields.io/badge/Netcat-555?logo=terminal)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-darkred?logo=tryhackme)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?logo=kalilinux)
+![Fiverr](https://img.shields.io/badge/Fiverr%20Expert-1dbf73?logo=fiverr)
 
 ---
 
-## 🚀 Let's Connect
+### 📂 Featured Projects
 
-📧 Email: asibur.cyber@gmail.com  
-💬 Fiverr: [fiverr.com/asibur_syber](https://www.fiverr.com/asibur_syber)  
-🔗 GitHub: [github.com/Asibur-syber](https://github.com/Asibur-syber)
+| 🔐 Project | 📄 Description |
+|-----------|----------------|
+| [**THM Reports**](https://github.com/Asibur-syber/THM-Reports) | 40+ Complete TryHackMe Room Writeups with Tools, Screenshots, and Methodologies |
+| [**DVWA Pentest**](https://github.com/Asibur-syber/DVWA-Pentest) | Full penetration testing breakdown of DVWA (Damn Vulnerable Web App) |
+| [**Bug Bounty Notes**](https://github.com/Asibur-syber/Bug-Bounty-Notes) | Recon techniques, tool commands, and exploitation notes — organized for bounty hunting |
 
-"Security is not a product, it's a mindset."
+---
+
+### 🧾 Fiverr Ready Services
+
+✅ Custom Penetration Testing Report  
+✅ Web Reconnaissance & Vulnerability Summary  
+✅ TryHackMe Room Report Writing (Markdown / PDF)  
+✅ Bug Bounty Note Structuring  
+🔗 Fiverr Portfolio: (Launching soon)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asibur-syber&show_icons=true&theme=radical&hide_title=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asibur-syber&theme=radical" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-asibur.recon@gmail.com-red?logo=gmail)](mailto:asibur.recon@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Asibur--syber-181717?logo=github)](https://github.com/Asibur-syber)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/yourprofile)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Gigs-1DBF73?logo=fiverr)](https://fiverr.com/yourprofile)
+
+---
+
+### 🧠 Quote I Live By:
+
+“Every vulnerability is a window of opportunity.” — *Asibur Rahaman*
 
 
 ---

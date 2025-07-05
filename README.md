@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://imgur.com/iDgEjGr" alt="Asibur Rahaman - Ethical Hacker Banner" width="100%"/>
+  <img src="assets/banner.png" alt="Asibur Rahaman - Ethical Hacker Banner" width="100%"/>
 </p>
 
 <h1 align="center">🧑‍💻 Asibur Rahaman</h1>
@@ -60,7 +60,7 @@
 ✅ Web Reconnaissance & Vulnerability Summary  
 ✅ TryHackMe Room Report Writing (Markdown / PDF)  
 ✅ Bug Bounty Note Structuring  
-🔗 Fiverr Portfolio: (Launching soon)
+🔗 Fiverr Portfolio: [Visit Fiverr](https://www.fiverr.com/)
 
 ---
 
@@ -76,10 +76,12 @@
 
 ### 🔗 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-asibur.recon@gmail.com-red?logo=gmail)](asib51639@gmail.com)
+[![Email](https://img.shields.io/badge/Email-asibur.recon@gmail.com-red?logo=gmail)](mailto:asibur.recon@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Asibur--syber-181717?logo=github)](https://github.com/Asibur-syber)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/hacktivities)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-TryNow-red?logo=tryhackme)](https://tryhackme.com/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Gigs-1DBF73?logo=fiverr)](https://www.fiverr.com/)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-black?logo=hackerone)](https://hackerone.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/)
 
 ---
 

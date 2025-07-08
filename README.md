@@ -48,7 +48,7 @@
 
 | 🔐 Project | 📄 Description |
 |-----------|----------------|
-| [**THM Reports**](Asibur-syber/TryHackMe-Reports) | 40+ Complete TryHackMe Room Writeups with Tools, Screenshots, and Methodologies |
+| [**THM Reports**](https://github.com/Asibur-syber/TryHackMe-Reports) | 40+ Complete TryHackMe Room Writeups with Tools, Screenshots, and Methodologies |
 | [**DVWA Pentest**](https://github.com/Asibur-syber/DVWA-Pentest) | Full penetration testing breakdown of DVWA (Damn Vulnerable Web App) |
 | [**Bug Bounty Notes**](https://github.com/Asibur-syber/Bug-Bounty-Notes) | Recon techniques, tool commands, and exploitation notes — organized for bounty hunting |
 

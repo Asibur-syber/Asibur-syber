@@ -48,7 +48,7 @@
 
 | 🔐 Project | 📄 Description |
 |-----------|----------------|
-| [**THM Reports**](https://github.com/Asibur-syber/THM-Reports) | 40+ Complete TryHackMe Room Writeups with Tools, Screenshots, and Methodologies |
+| [**THM Reports**](Asibur-syber/TryHackMe-Reports) | 40+ Complete TryHackMe Room Writeups with Tools, Screenshots, and Methodologies |
 | [**DVWA Pentest**](https://github.com/Asibur-syber/DVWA-Pentest) | Full penetration testing breakdown of DVWA (Damn Vulnerable Web App) |
 | [**Bug Bounty Notes**](https://github.com/Asibur-syber/Bug-Bounty-Notes) | Recon techniques, tool commands, and exploitation notes — organized for bounty hunting |
 
@@ -76,7 +76,7 @@
 
 ### 🔗 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-asibur.recon@gmail.com-red?logo=gmail)](mailto:asibur.recon@gmail.com)
+[![Email](https://img.shields.io/badge/Email-asibur.recon@gmail.com-red?logo=gmail)](asib51639@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Asibur--syber-181717?logo=github)](https://github.com/Asibur-syber)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-TryNow-red?logo=tryhackme)](https://tryhackme.com/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Gigs-1DBF73?logo=fiverr)](https://www.fiverr.com/)

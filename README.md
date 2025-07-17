@@ -76,7 +76,7 @@
 
 ### 🔗 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-asibur.recon@gmail.com-red?logo=gmail)](asib51639@gmail.com)
+[![Email](https://img.shields.io/badge/Email-asibur.recon@gmail.com-red?logo=gmail)]( asib51639@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Asibur--syber-181717?logo=github)](https://github.com/Asibur-syber)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-TryNow-red?logo=tryhackme)](https://tryhackme.com/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Gigs-1DBF73?logo=fiverr)](https://www.fiverr.com/)
